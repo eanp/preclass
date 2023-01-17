@@ -17,4 +17,4 @@ let talent = ["bayu","basri","revo"]
 
 let  [bayu,basri,revo] = talent
 
-console.log(revo)
+// console.log(revo)
